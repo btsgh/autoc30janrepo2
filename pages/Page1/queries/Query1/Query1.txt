@@ -1,0 +1,1 @@
+SELECT * FROM PUBLIC.users LIMIT 10;

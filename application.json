@@ -1,0 +1,27 @@
+{
+  "pages": [
+    {
+      "id": "mongods",
+      "isDefault": true
+    },
+    {
+      "id": "Postgres",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEFDB",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
